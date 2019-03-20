@@ -1,2 +1,2 @@
 # mvc-jardiworld
-TP MVC PHP UPHF
+Petit site réalisé en PHP7 et design pattern MVC
