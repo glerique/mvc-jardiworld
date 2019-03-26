@@ -27,4 +27,5 @@ $controleur = new Controler();
     else {
         $controleur->accueil();
     }
+/* toto */
 ?>
