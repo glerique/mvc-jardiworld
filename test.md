@@ -2,10 +2,10 @@
 
 # Comment contribuer au projet ?
 
-    - Tout d'abord Clonez le répertoire Github du projet.
+    - Tout d'abord clonez le répertoire Github du projet.
     - Installez le projet et ses dépendances. 
     - Pour plus d'informations concernant ces étapes, vous pouvez consulter le readme du projet.
-    - Ensuite il vous sera demander de créer une nouvelle branche et d'envoyer le code sur le repository 
+    - Ensuite il vous sera demander de créer une nouvelle branche et d'envoyer le code sur le repository. 
     - Vous aurez alors la possibilité d'ouvrir une pull request sur le répertoire Github du projet.
     - Vous devrez attendre la validation de la pull request pour que votre code soit ajouté au projet.
 
@@ -17,7 +17,7 @@
 
 # Conventions de noms
 
-    - Les classes  en UpperCamelCase.
+    - Les classes en UpperCamelCase.
     - Les variables et les fonctions en camelCase.
 
 # Outil d'analyse qualité du code
