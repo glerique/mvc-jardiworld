@@ -17,12 +17,12 @@
 
 # Les conventions de noms
 
-    Les classes  en UpperCamelCase.
-    Les variables et les fonctions en camelCase.
+    - Les classes  en UpperCamelCase.
+    - Les variables et les fonctions en camelCase.
 
 # Outil d'analyse qualité du code
 
-    Code Climate est l'outil d'analyse automatisé utilisé sur ce projet.
+    - Code Climate est l'outil d'analyse automatisé utilisé sur ce projet.
 
 # Recommandations diverses
 
