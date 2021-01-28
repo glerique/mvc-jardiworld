@@ -6,11 +6,11 @@ Comment contribuer au projet ?
     - Ensuite Installez le projet et ses dépendances. 
     - Pour plus d'informations concernant ces étapes, vous pouvez consulter le readme du projet.
     - Ensuite il vous sera demander de créer une nouvelle branche et d'envoyer le code sur le repository à l'aide des commandes suivantes : 
-```
+
 git branch nouvelle-branche
 git checkout nouvelle-branche pour basculer et travailler sur la nouvelle branche
 git push origin nouvelle-branch pour envoyer votre code sur le repository 
-```
+
     Vous aurez alors la possibilité d'ouvrir une pull request sur le répertoire Github du projet.
     Ensuite vous devrez attendre la validation de la pull request pour que votre code soit ajouté au projet.
 
