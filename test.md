@@ -1,6 +1,6 @@
-Contribution 
+# Contribution 
 
-Comment contribuer au projet ?
+# Comment contribuer au projet ?
 
     - Tout d'abord Clonez le répertoire Github du projet.
     - Ensuite Installez le projet et ses dépendances. 
@@ -10,21 +10,21 @@ Comment contribuer au projet ?
     - vous devrez attendre la validation de la pull request pour que votre code soit ajouté au projet.
 
 
-Standards à respecter
+# Standards à respecter
 
     - PHP Standards Recommendations (PSR).
     - Symfony Coding Standards.
 
-Les conventions de noms
+# Les conventions de noms
 
     Les classes  en UpperCamelCase.
     Les variables et les fonctions en camelCase.
 
-Outil d'analyse qualité du code
+# Outil d'analyse qualité du code
 
     Code Climate est l'outil d'analyse automatisé utilisé sur ce projet.
 
-Recommandations diverses
+# Recommandations diverses
 
     Il vous est demandé :
     - D'utiliser l'injection de dépendance au sein de l'application.
